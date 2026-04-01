@@ -29,7 +29,7 @@ Sou apaixonado por resolver problemas complexos através de código. Atualmente,
 
 ### 📈 Minhas Estatísticas
 
-![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=Lukezinx&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Lukezinx&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" alt="Estatísticas do Lucas" align="left" />
 
 ---
 
