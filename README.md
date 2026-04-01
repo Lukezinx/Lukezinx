@@ -36,5 +36,5 @@ Sou apaixonado por resolver problemas complexos através de código. Atualmente,
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-luke)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-luke/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DevLucasSantosCr@gmail.com)
