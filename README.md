@@ -1,17 +1,40 @@
-### Olá, eu sou o Lucas 👋
+### Olá, eu sou o Lucas! 👋
 
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaszx_p/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-luke/)
+**Desenvolvedor Back-End | Estudante de Engenharia de Software**
 
+Sou apaixonado por resolver problemas complexos através de código. Atualmente, meu foco principal é o ecossistema **Java e Spring Boot**, construindo APIs RESTful seguras, testáveis e com boas práticas de arquitetura. Em paralelo, estou expandindo meus conhecimentos para o desenvolvimento Front-End.
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukezinx&show_icons=true&theme=dracula)
+---
 
-## Tecnologias que eu uso no meu dia
+### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline-block"><br/>
-<img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div><br/>
+**Back-End & Banco de Dados:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através de programação..
+**Front-End & Versionamento:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Principais Focos Atuais
+- Arquitetura de Software e APIs RESTful Stateless (JWT).
+- Manipulação e processamento de dados.
+- Integração de Back-End robusto com interfaces reativas.
+
+---
+
+### 📈 Minhas Estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lukezinx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Lucas" />
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-luke)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DevLucasSantosCr@gmail.com)
