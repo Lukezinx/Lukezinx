@@ -28,13 +28,12 @@ Sou apaixonado por resolver problemas complexos através de código. Atualmente,
 ---
 
 ### 📈 Minhas Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukezinx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Lucas" />
-</p>
+
+![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=Lukezinx&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true)
 
 ---
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-luke/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-luke/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DevLucasSantosCr@gmail.com)
